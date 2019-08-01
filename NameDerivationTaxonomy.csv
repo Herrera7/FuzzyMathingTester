@@ -1,0 +1,89 @@
+VariationCategory;VariationCategory;VariationSubCategory;Subcase;Description;Example;Severity
+Individuals;Initials;firstname_initials_single;firstname_initials_single;;BUITRAGO DE HERRERA, Luz Mery ->  L. Mery Buitrago de Herrera;Medium
+Individuals;Initials;firstname_initials;firstname_initials;;BUITRAGO DE HERRERA, Luz Mery ->  L. M. Buitrago de Herrera;Medium
+Individuals;Initials;initials_lastname;initials_lastname;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mery B. de Herrera;Medium
+Individuals;Initials;lastname_initials_clear_first_name;lastname_initials_clear_first_name;;BUITRAGO DE HERRERA, Luz Mery -> B. de Herrera;Medium
+Individuals;Character Extension;add_spc_in_letters;add_spc_in_letters;;BUITRAGO DE HERRERA, Luz Mery -> Lu z Mery Buitrago de Herrera;Low
+Individuals;Character Extension;add_prefix;add_al-;;QADHAFI, Muammar  -> Muammar al-Qadhafi;Medium
+Individuals;Character Extension;add_prefix;add_Al_and_space;;QADHAFI, Muammar  -> Muammar Al Qadhafi;Medium
+Individuals;Character Extension;add_prefix;add_El_and_space;;QADHAFI, Muammar  -> Muammar El Qadhafi;Medium
+Individuals;Character Extension;add_vowel;add_vowel;;QADHAFI, Muammar  -> Mouammar El Qadhafi;Low
+Individuals;Character Extension;add_h_before_vowel;add_h_before_vowel;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mhery Buitrago de Herreras;Low
+Individuals;Character Extension;add_consonant;add_consonant_s;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mery Buitrago de Herreras;Low
+Individuals;Character Extension;add_consonant;add_consonant_r;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mery Buitragor de Herrera;Low
+Individuals;Character Extension;add_consonant;add_consonant_z;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mery Buitrago de Herreraz;Low
+Individuals;Character Extension;add_consonant;add_consonant_uncommon;;BUITRAGO DE HERRERA, Luz Mery -> Luz Meryt Buitrago de Herrera;Medium
+Individuals;Character Extension;add_consonant;add_consonant_double;;BUITRAGO DE HERRERA, Luz Mery -> Luz Mery Buitragozz de Herrera;Medium
+Individuals;Character Extension;add_special_character;add_special_character_';;QADHAFI, Muammar  -> Mu'Ammar El Qadhafi;Low
+Individuals;Character Extension;add_special_character;add_special_character_accent;;LINARES REYES, Ricardo Jose -> Ricardo José Linares Reyes;Low
+Individuals;Character Extension;add_special_character;add_special_character_uncommon;;LINARES REYES, Ricardo Jose -> Ricardo Jos! Linares Reyes;Low
+Individuals;Character Replacement;phonetic_replacement;replace_s_z;;LINARES REYES, Ricardo Jose -> Ricardo Jose Linarez Reyes;Low
+Individuals;Character Replacement;phonetic_replacement;replace_z_s;;DIAZ, Manuel -> Manuel Dias;Low
+Individuals;Character Replacement;phonetic_replacement;replace_s_c;;CHIHOTA, Phineas -> Phineac Chihota;Low
+Individuals;Character Replacement;phonetic_replacement;replace_c_s;;GARCIA, Freddy -> Freddy Garsia;Low
+Individuals;Character Replacement;phonetic_replacement;replace_c_z;;GARCIA, Freddy -> Freddy Garzia;Low
+Individuals;Character Replacement;phonetic_replacement;replace_z_c;;GONZALEZ BENITEZ, Olga Patricia - > Olga Patrizia Goncalez Benitez;Low
+Individuals;Character Replacement;phonetic_replacement;replace_u_o;;BUITRAGO DE HERRERA, Luz Mery -> Loz Mery Buitrago de Herrera;Low
+Individuals;Character Replacement;phonetic_replacement;replace_o_u;;GONZALEZ BENITEZ, Olga Patricia - > Olga Patricia Gunzalez Benitez;Low
+Individuals;Character Replacement;phonetic_replacement;replace_ua_o;;QADHAFI, Muammar  -> Mommar El Qadhafi;Low
+Individuals;Character Replacement;phonetic_replacement;replace_o_ua;;VALLEJO FRANCO, Inigo -> Inigua Vallejo Franco;Low
+Individuals;Character Replacement;phonetic_replacement;replace_ph_f;;CHIHOTA, Phineas -> Fineas Chihota;Low
+Individuals;Character Replacement;phonetic_replacement;replace_f_ph;;CHARUMBIRA, Fortune Zefanaya -> Fortune Zefanaya Charumbira;Low
+Individuals;Character Replacement;phonetic_replacement;replace_y_i;;TSYPLAKOV, Sergey Gennadevich -> Sergey Gennadevich Tsiplakov;Low
+Individuals;Character Replacement;phonetic_replacement;replace_i_y;;IOFFE, Eduard A -> Eduard A Yoffe;Low
+Individuals;Character Replacement;phonetic_replacement;replace_d_th;;GEIGES, Daniel -> Thaniel Geiges;Low
+Individuals;Character Replacement;phonetic_replacement;replace_th_d;;MUNERA VELASQUEZ, Martha Marina -> MUNERA VELASQUEZ, Martha Marina;Low
+Individuals;Character Replacement;phonetic_replacement;replace_v_w;;VILLOTA SEGURA, Aldemar -> Aldemar Villota Segura;Low
+Individuals;Character Replacement;phonetic_replacement;replace_w_v;;OCHOA GUISAO, Walter -> Valter Ochoa Guisao;Low
+Individuals;Character Replacement;phonetic_replacement;replace_k_q;;KIM, Kang Jin -> Qang Jin Kim;Low
+Individuals;Character Replacement;phonetic_replacement;replace_q_k;;QADO, Waad -> Waad Qado;Low
+Individuals;Character Replacement;phonetic_replacement;replace_v_b;;IBARRA CARDONA, Carlos Jesus Ivan -> Carlos Jesus Iban Ibarra Cardona;Low
+Individuals;Character Replacement;phonetic_replacement;replace_b_v;;IBARRA CARDONA, Carlos Jesus Ivan -> Carlos Jesus Ivan Ivarra Cardona;Low
+Individuals;Character Replacement;phonetic_replacement;replace_a_e;;ERDOGAN, Emrah -> Emrah Erdogen;Low
+Individuals;Character Replacement;phonetic_replacement;replace_e_a;;ERDOGAN, Emrah -> Emrah Ardogan;Low
+Individuals;Character Replacement;phonetic_replacement;replace_x_j;;XHEMAJLI, Emrush - > Emrush Jhemajli;Low
+Individuals;Character Replacement;phonetic_replacement;replace_j_x;;OROPEZA MEDRANO, Francisco Javier -> Francisco Xavier Oropeza Medrano;Low
+Individuals;Character Replacement;phonetic_replacement;replace_v_f;;TADIC, Miroslav -> Miroslaf Tadic;Low
+Individuals;Character Replacement;phonetic_replacement;replace_f_v;;AL-TIKRITI, Hani abd-al-Latif Tilfah -> Hani abd-al-Lativ Tilfah al-Tikriti;Low
+Individuals;Character Replacement;phonetic_replacement;replace_c_k;;MADURO GUERRA, Nicolas Ernesto -> Nikolas Ernesto Maduro Guerra;Low
+Individuals;Character Replacement;phonetic_replacement;replace_k_c;;GRANKO ARTEAGA, Alexander Enrique -> Alexander Enrique Granco Arteaga;Low
+Individuals;Character Replacement;typographic_error;replace_t_y;;MICHIELSEN, Tom -> Yom Michelsen;Low
+Individuals;Character Replacement;typographic_error;replace_y_t;;BELTRAN ROMERO, Mireya Denisse -> Mireta Denisse Beltran Romero;Low
+Individuals;Character Replacement;typographic_error;replace_o_p;;MICHIELSEN, Tom ->  Tpm Michelsen;Low
+Individuals;Character Replacement;typographic_error;replace_p_o;;FITCH PARENTE, Pablo Antonio -> Pablo Antonio Fitch Oarente;Low
+Individuals;Character Replacement;typographic_error;replace_d_e;;GRANKO ARTEAGA, Alexander Enrique -> Alexaneer Enrique Granko Arteaga;Low
+Individuals;Character Replacement;typographic_error;replace_e_d;;GRANKO ARTEAGA, Alexander Enrique -> Alexander Enriqud Granko Arteaga;Low
+Individuals;Character Replacement;typographic_error;replace_f_d;;CADENA COLLAZOS, Francisco Antonio -> Francisco Antonio Cadena Collazos;Low
+Individuals;Character Replacement;typographic_error;replace_d_f;;RANGEL SILVA, Henry de Jesus -> Henry fe Jesus Rangel Silva;Low
+Individuals;Character Replacement;typographic_error;replace_r_f;;TREJO FREIRE, Efrain Pablo -> Efrain Pablo Trejo Freife;Low
+Individuals;Character Replacement;typographic_error;replace_f_r;;TREJO FREIRE, Efrain Pablo -> Efrain Pablo Trejo Rreire;Low
+Individuals;Character Replacement;typographic_error;replace_e_r;;RANGEL SILVA, Henry de Jesus -> Henry de Jrsus Rangel Silva;Low
+Individuals;Character Replacement;typographic_error;replace_r_e;;GRANKO ARTEAGA, Alexander Enrique -> Alexander Enrique Geanko Arteaga;Low
+Individuals;Character Replacement;alphabet_alternative;replace_n_ñ;;VALLEJO FRANCO, Inigo -> Iñigo Vallejo Franco;Low
+Individuals;Character Replacement;alphabet_alternative;replace_ñ_n;;VALLEJO FRANCO, Iñigo -> Inigo Vallejo Franco;Low
+Individuals;Character Replacement;character_replacement-uncommon;character_replacement-uncommon;Random character replacement not consider in particular cases;VALLEJO FRANCO, Inigo -> Inigq Vallejo Franco;Medium
+Individuals;Character Reduction;phonetic_miss;remove_h;;FADLALLAH, Shaykh Muhammad Husayn -> Saykh Muhammad Husayn Fadlallah;Low
+Individuals;Character Reduction;phonetic_miss;remove_c_before_k;;CHINAMASA, Patrick -> Patrik Chinamasa;Low
+Individuals;Character Reduction;phonetic_miss;remove_e_before_s;;ESPARRAGOZA MORENO, Juan Jose -> Juan Jose Sparragoza Moreno;Low
+Individuals;Character Reduction;phonetic_miss;remove_final_s;;AL-MUHAMMAD, Khamis Sirhan -> Khami Sirhan al-Muhammad;Low
+Individuals;Character Reduction;phonetic_miss;remove_final_z;;MENDEZ SALAZAR, John Jairo -> John Jairo Mende Salazar;Low
+Individuals;Character Reduction;phonetic_miss;remove_final_d;;SIEIRO DE NORIEGA, Felicidad -> Felicidad Sieiro de Noriega;Low
+Individuals;Character Reduction;character_reduction_uncommon;character_reduction_uncommon;;MENDEZ SALAZAR, John Jairo -> John Jair Mendez Salazar;Medium
+Individuals;Transposition;phonetic_transposition;transpose_e_d;;BENHAMMEDI, Mohammed -> Mohammde Benhammedi;Low
+Individuals;Transposition;phonetic_transposition;transpose_d_e;;HERNANDEZ ARBOLEDA, Sandra Milena -> Sandra Milena Hernanedz Arboleda;Low
+Individuals;Transposition;phonetic_transposition;transpose_e_i;;AL-AWADI, Hussein Qaid -> Hussien Qaid al-Awadi;Low
+Individuals;Transposition;phonetic_transposition;transpose_i_e;;ARELLANO FELIX, Francisco Javier -> Francisco Javier Arellano Felix;Low
+Individuals;Transposition;phonetic_transposition;transpose_a_e;;NYAMBUYA, Michael Rueben -> Micheal Rueben Nyambuya;Low
+Individuals;Transposition;phonetic_transposition;transpose_e_a;;ZHUWAO, Beauty Lily -> Beauty Lily Zhuwao;Low
+Individuals;Transposition;transposition_uncommon;transposition_uncommon;;AL-AWADI, Hussein Qaid -> Hussein Qaid al-Waadi;Medium
+Individuals;Double Characters;double_character_reduction;double_character_reduction;;MENDEZ SALAZAR, John Jairo -> John Jair Mendez Salazzar;Medium
+Individuals;Double Characters;double_character_insertion;double_character_insertion;;AL-AWADI, Husein Qaid -> Hussein Qaid al-Waadi;Low
+Individuals;Spaces;space_reduction;space_reduction;;MENDEZ SALAZAR, John Jairo -> John Jairo MendezSalazar;Medium
+Individuals;Spaces;space_insertion;space_insertion;;MENDEZ SALAZAR, John Jairo -> John Jairo Men dez Salazar;Medium
+Individuals;Name Order;transposition_name;transposition_name;;MENDEZ SALAZAR, John Jairo -> John Jairo Salazar Mendez ;Medium
+Individuals;Name Order;random_name_transposition;random_name_transposition;;MENDEZ SALAZAR, John Jairo -> Salazar John Mendez Jairo ;Medium
+Individuals;Titles;title_insertion;title_insertion;;MENDEZ SALAZAR, John Jairo -> Mr. John Jairo Salazar Mendez ;Medium
+Individuals;Titles;title_removal;title_removal;;MENDEZ SALAZAR, Mr. John Jairo -> John Jairo Salazar Mendez ;Medium
+Individuals;Missing Name Component;name_component_deletion;name_component_deletion;;MENDEZ SALAZAR, John Jairo -> John Jairo Salazar;High
+Individuals;Also Known As;firstname_alias;firstname_alias;;HERRERA BUITRAGO, Helmer -> Pacho Herrera Buitrago;High
+Individuals;Also Known As;fullname_alias;fulltime_alias;;HERRERA BUITRAGO, Helmer -> Pacho;Very High
